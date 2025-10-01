@@ -20,7 +20,7 @@ Prerequisites
 4. MongoDB installed and running
 5. Git (for cloning the repository)
 
----HAPPY CODEING---
+---HAPPY code--
 
 
 
