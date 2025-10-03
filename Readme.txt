@@ -2,8 +2,8 @@ Installation Guide
 TABSERVE - Installation Guide
 This document will guide you through setting up both the backend (tabserve) and frontend (tabserve-ui) of the Tabserve application.
 
-About TabServe
-TabServe is a comprehensive restaurant management system that includes:
+About 
+A comprehensive restaurant management system that includes:
 - Menu management with categories and image support
 - Order management for dine-in and takeaway
 - Table/Tab management system
@@ -20,15 +20,10 @@ Prerequisites
 4. MongoDB installed and running
 5. Git (for cloning the repository)
 
----HAPPY code--
+---Happy Codeing--
 
 
-
-
-
-
-
-Backend Setup (tabserve)
+Backend Setup
 1. Navigate to the tabserve directory:
    cd tabserve
 2. Create a Python virtual environment:
@@ -56,7 +51,7 @@ The backend server will start running on http://localhost:8000
 
 
 
-Frontend Setup (tabserve-ui)
+Frontend Setup 
 1. Navigate to the tabserve-ui directory:
    cd tabserve-ui
 2. Install the required npm packages:
@@ -280,11 +275,6 @@ Common Operations
    - Waiter assignment
    - Status monitoring
    - Table turnover
-
-
-
-
-
 
 
 
