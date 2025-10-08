@@ -9,7 +9,7 @@ A comprehensive restaurant management system that includes:
 - Table/Tab management system
 - Kitchen display system for cooks
 - User role management (Admin, Waiter, Cook, Customer)
-- Real-time order tracking
+- Real-time order tracking system
 - Receipt management with tax and parcel charge settings
 - System reporting with revenue and order statistics
 
