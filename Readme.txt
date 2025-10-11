@@ -20,9 +20,6 @@ Prerequisites
 4. MongoDB installed and running
 5. Git (for cloning the repository)
 
----Happy Codeing--
-
-
 Backend Setup
 1. Navigate to the tabserve directory:
    cd tabserve
@@ -276,9 +273,6 @@ Common Operations
    - Status monitoring
    - Table turnover
 
-
-
-
 Security Notes
 1. Always change the default SECRET_KEY in production
 2. Use strong passwords for admin accounts
@@ -291,3 +285,6 @@ For additional help or issues, please refer to:
 - Expo documentation: https://docs.expo.dev/
 - React Native documentation: https://reactnative.dev/docs/getting-started
 - MongoDB documentation: https://docs.mongodb.com/
+
+
+--- HAPPY CODING ---
