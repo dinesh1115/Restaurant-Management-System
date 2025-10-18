@@ -4,8 +4,8 @@ import { GestureHandlerRootView } from "react-native-gesture-handler";
 import { CookiesProvider } from "react-cookie";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import WelcomeScreen from "./app/WelcomeScreen";
-import LoginScreen from "./app/Login";  // Ensure correct path
-import HomeScreen from "./app/Menu";          // Ensure correct path
+import LoginScreen from "./app/Login";  
+import HomeScreen from "./app/Menu";          
 import RegistrationScreen from "./app/RegistrationScreen";
 import DashboardScreen from "./app/DashboardScreen";
 import DeleteUser from "./app/DeleteUser";
