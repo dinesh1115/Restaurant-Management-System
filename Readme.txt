@@ -1,8 +1,8 @@
 Installation Guide	
 Installation Guide
-This document will guide you through setting up both the backend and frontend of the Tabserve application.
+This document will guide you through setting up both the backend and frontend of the Tabserve application..
 
-About 
+About
 A comprehensive restaurant management system that includes:
 - Menu management with categories and image support
 - Order management for dine-in and takeaway
