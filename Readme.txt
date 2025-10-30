@@ -1,5 +1,4 @@
 Installation Guide	
-Installation Guide
 This document will guide you through setting up both the backend and frontend of the Tabserve application..
 
 About
