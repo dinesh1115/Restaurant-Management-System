@@ -23,7 +23,6 @@ This project is a full-stack Restaurant Management System with frontend and back
 
 ### Admin Panel
 ![Screenshot 6](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0006.jpg)
-
 ---
 Installation Guide	
 This document will guide you through setting up both the backend and frontend of the Tabserve application..
