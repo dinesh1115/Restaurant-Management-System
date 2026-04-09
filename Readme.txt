@@ -5,24 +5,31 @@ This project is a full-stack Restaurant Management System with frontend and back
 ---
 
 ## Screenshots
+# Restaurant Management System
 
-### Home / Dashboard
-![Screenshot 1](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0001.jpg)
+This project is a full-stack Restaurant Management System with frontend and backend integration.
 
-### Menu Page
-![Screenshot 2](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0002.jpg)
+---
 
-### Order Section
-![Screenshot 3](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0003.jpg)
+## Screenshots
 
-### Booking / Table Management
-![Screenshot 4](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0004.jpg)
+### System Preview
 
-### Payment Section
-![Screenshot 5](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0005.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0001.jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0002.jpg" width="300"/>
+</p>
 
-### Admin Panel
-![Screenshot 6](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0006.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0003.jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0004.jpg" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0005.jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0006.jpg" width="300"/>
+</p>
+
 ---
 Installation Guide	
 This document will guide you through setting up both the backend and frontend of the Tabserve application..
