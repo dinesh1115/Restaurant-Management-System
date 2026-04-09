@@ -1,3 +1,30 @@
+# Restaurant Management System
+
+This project is a full-stack Restaurant Management System with frontend and backend integration.
+
+---
+
+## Screenshots
+
+### Home / Dashboard
+![Screenshot 1](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0001.jpg)
+
+### Menu Page
+![Screenshot 2](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0002.jpg)
+
+### Order Section
+![Screenshot 3](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0003.jpg)
+
+### Booking / Table Management
+![Screenshot 4](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0004.jpg)
+
+### Payment Section
+![Screenshot 5](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0005.jpg)
+
+### Admin Panel
+![Screenshot 6](https://raw.githubusercontent.com/dinesh1115/Restaurant-Management-System/main/SCREENSHORT_page-0006.jpg)
+
+---
 Installation Guide	
 This document will guide you through setting up both the backend and frontend of the Tabserve application..
 
