@@ -2,8 +2,6 @@
 
 This project is a full-stack Restaurant Management System with frontend and backend integration.
 
----
-
 ## Screenshots
 
 ### System Preview
