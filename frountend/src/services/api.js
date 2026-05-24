@@ -112,10 +112,11 @@ export class API {
     }
   
     // Update User
-  static async updateUser(username, password) {
+  static async updateUser(username, updates) {
       try {
         const token = await this.getToken();
-        const response = await this.api.put(`/user/update/${username}`, { password }, {
+        const body = typeof updates === "string" ? { password: updates } : updates;
+        const response = await this.api.put(`/user/update/${username}`, body, {
           headers: { Authorization: `Bearer ${token}` }
         });
         return response.data;

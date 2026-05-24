@@ -1,0 +1,40 @@
+package com.restaurant.tabserv.config;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.web.servlet.config.annotation.CorsRegistry;
+import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
+
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+@Configuration
+public class WebConfig implements WebMvcConfigurer {
+
+    @Value("${app.upload.menu-images-dir}")
+    private String menuImagesDir;
+
+    @Override
+    public void addCorsMappings(CorsRegistry registry) {
+        registry.addMapping("/**")
+                .allowedOriginPatterns(
+                        "http://localhost:8081",
+                        "http://localhost:8080",
+                        "http://localhost:3000",
+                        "http://10.8.0.2:*",
+                        "http://127.0.0.1:*"
+                )
+                .allowedMethods("*")
+                .allowedHeaders("*")
+                .exposedHeaders("*")
+                .allowCredentials(true);
+    }
+
+    @Override
+    public void addResourceHandlers(ResourceHandlerRegistry registry) {
+        Path uploadPath = Paths.get(menuImagesDir).toAbsolutePath().normalize();
+        registry.addResourceHandler("/uploads/menu_images/**")
+                .addResourceLocations("file:" + uploadPath + "/");
+    }
+}
