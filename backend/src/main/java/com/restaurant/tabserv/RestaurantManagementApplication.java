@@ -1,4 +1,4 @@
-// restaurant management system
+// restaurant management 
 package com.restaurant.tabserv;
 
 import org.springframework.boot.SpringApplication;
